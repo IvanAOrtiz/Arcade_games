@@ -1,6 +1,3 @@
-##INTEGRANTES
-##JUAN JOSE ROBALINO - A00832934
-##IVÁN ALEJANDRO ORTIZ VALADEZ - A00834559
 import random
 import time
 def funcionppt():
